@@ -1,0 +1,1 @@
+# BIMI-Up-Scotty-A-look-at-Brand-Indicators-for-Message-Identification-BIMI-Adoption-with-R
